@@ -1,1 +1,1 @@
-# html-portfolio
+# amazon-clone
